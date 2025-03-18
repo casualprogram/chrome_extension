@@ -1,0 +1,10 @@
+{
+    "name" : "Upcoming Concerts",
+    "version": "1.0.0",
+    "description": 3,
+    "author" : "Casual Solutions",
+    "action" : {
+        "default_popup" : "index.html",
+        "default_title" : "Upcoming Concerts"
+    }
+}
